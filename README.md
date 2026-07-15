@@ -81,13 +81,4 @@ python app.py
 - MediaPipe
 - pyttsx3
 
----
 
-## 📌 Future Work
-
-- 🌐 Streamlit Web App
-- 📱 Mobile Version
-- ☁ Cloud Deployment
-- 🌍 More BISINDO Vocabulary
-
----
