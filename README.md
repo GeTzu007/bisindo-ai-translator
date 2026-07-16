@@ -37,13 +37,6 @@ Real-Time Indonesian Sign Language (BISINDO) Translator using **MediaPipe Hand L
 
 ---
 
-## 📸 Demo
-
-> Replace the images below with your screenshots.
-
-<p align="center">
-<img src="assets/demo.gif" width="800">
-</p>
 
 ---
 
